@@ -3,13 +3,31 @@ using Toybox.Graphics as Gfx;
 using Toybox.System as Sys;
 using Toybox.Lang as Lang;
 using Toybox.Application as App;
+using Toybox.Communications as Comm;
 
-class helloView extends Ui.WatchFace {
+class helloView extends Ui.View {
 
+        var url = "https://hooks.slack.com/services/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";
+    	var params = {
+    		"channel" => "@richard",
+			"username" => "ram-bot",
+			"text" => "test garmin slack integration",
+			"icon_emoji" => ":athletic_shoe:"
+		};
+		var headers = {
+			"Content-Type" => Comm.REQUEST_CONTENT_TYPE_JSON,
+			"Accept" => "application/json"
+		};
+		var options = {
+			:method => Comm.HTTP_REQUEST_METHOD_POST,
+			:headers => headers
+		};
+
+ 
+		
     function initialize() {
-        WatchFace.initialize();
+        Ui.View.initialize();
     }
-
     // Load your resources here
     function onLayout(dc) {
         setLayout(Rez.Layouts.WatchFace(dc));
@@ -19,10 +37,24 @@ class helloView extends Ui.WatchFace {
     // the state of this View and prepare it to be shown. This includes
     // loading resources into memory.
     function onShow() {
+    // seems to be most helpful https://forums.garmin.com/showthread.php?358535-makeJsonRequest-makeWebRequest-examples but still not working
+    // possibly helpful http://stackoverflow.com/questions/39680036/connect-iq-unexpected-type-error-when-using-settext
+    //
+		Comm.makeWebRequest(url, params, options, method(:onReceive)
+		);	
     }
+    
+    function onReceive(responseCode, data) {
+       responseCode.toString();
+    }
+	}
+    
 
     // Update the view
     function onUpdate(dc) {
+    
+   
+		
         // Get the current time and format it correctly
         var timeFormat = "$1$:$2$";
         var clockTime = Sys.getClockTime();
@@ -62,4 +94,4 @@ class helloView extends Ui.WatchFace {
     function onEnterSleep() {
     }
 
-}
+
