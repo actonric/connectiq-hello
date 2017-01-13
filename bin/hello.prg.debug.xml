@@ -1,50 +1,53 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <debugInfo>
 <pcToLineNum>
-<entry filename="/Users/Richard/code/connectiq/workspace/hello/source/helloView.mc" lineNum="9" pc="268435456" symbol="initialize"/>
-<entry filename="/Users/Richard/code/connectiq/workspace/hello/source/helloView.mc" lineNum="10" pc="268435460" symbol="initialize"/>
-<entry filename="/Users/Richard/code/connectiq/workspace/hello/source/helloView.mc" lineNum="14" pc="268435479" symbol="onLayout"/>
-<entry filename="/Users/Richard/code/connectiq/workspace/hello/source/helloView.mc" lineNum="15" pc="268435483" symbol="onLayout"/>
-<entry filename="/Users/Richard/code/connectiq/workspace/hello/source/helloView.mc" lineNum="21" pc="268435521" symbol="onShow"/>
-<entry filename="/Users/Richard/code/connectiq/workspace/hello/source/helloView.mc" lineNum="25" pc="268435526" symbol="onUpdate"/>
-<entry filename="/Users/Richard/code/connectiq/workspace/hello/source/helloView.mc" lineNum="27" pc="268435530" symbol="onUpdate"/>
-<entry filename="/Users/Richard/code/connectiq/workspace/hello/source/helloView.mc" lineNum="28" pc="268435537" symbol="onUpdate"/>
-<entry filename="/Users/Richard/code/connectiq/workspace/hello/source/helloView.mc" lineNum="29" pc="268435554" symbol="onUpdate"/>
-<entry filename="/Users/Richard/code/connectiq/workspace/hello/source/helloView.mc" lineNum="30" pc="268435564" symbol="onUpdate"/>
-<entry filename="/Users/Richard/code/connectiq/workspace/hello/source/helloView.mc" lineNum="31" pc="268435589" symbol="onUpdate"/>
-<entry filename="/Users/Richard/code/connectiq/workspace/hello/source/helloView.mc" lineNum="32" pc="268435600" symbol="onUpdate"/>
-<entry filename="/Users/Richard/code/connectiq/workspace/hello/source/helloView.mc" lineNum="35" pc="268435616" symbol="onUpdate"/>
-<entry filename="/Users/Richard/code/connectiq/workspace/hello/source/helloView.mc" lineNum="36" pc="268435648" symbol="onUpdate"/>
-<entry filename="/Users/Richard/code/connectiq/workspace/hello/source/helloView.mc" lineNum="37" pc="268435655" symbol="onUpdate"/>
-<entry filename="/Users/Richard/code/connectiq/workspace/hello/source/helloView.mc" lineNum="40" pc="268435676" symbol="onUpdate"/>
-<entry filename="/Users/Richard/code/connectiq/workspace/hello/source/helloView.mc" lineNum="43" pc="268435741" symbol="onUpdate"/>
-<entry filename="/Users/Richard/code/connectiq/workspace/hello/source/helloView.mc" lineNum="44" pc="268435765" symbol="onUpdate"/>
-<entry filename="/Users/Richard/code/connectiq/workspace/hello/source/helloView.mc" lineNum="45" pc="268435806" symbol="onUpdate"/>
-<entry filename="/Users/Richard/code/connectiq/workspace/hello/source/helloView.mc" lineNum="48" pc="268435826" symbol="onUpdate"/>
-<entry filename="/Users/Richard/code/connectiq/workspace/hello/source/helloView.mc" lineNum="54" pc="268435847" symbol="onHide"/>
-<entry filename="/Users/Richard/code/connectiq/workspace/hello/source/helloView.mc" lineNum="58" pc="268435852" symbol="onExitSleep"/>
-<entry filename="/Users/Richard/code/connectiq/workspace/hello/source/helloView.mc" lineNum="62" pc="268435857" symbol="onEnterSleep"/>
-<entry filename="/Users/Richard/code/connectiq/workspace/hello/source/helloBackground.mc" lineNum="7" pc="268435862" symbol="initialize"/>
-<entry filename="/Users/Richard/code/connectiq/workspace/hello/source/helloBackground.mc" lineNum="8" pc="268435866" symbol="initialize"/>
-<entry filename="/Users/Richard/code/connectiq/workspace/hello/source/helloBackground.mc" lineNum="12" pc="268435887" symbol="initialize"/>
-<entry filename="/Users/Richard/code/connectiq/workspace/hello/source/helloBackground.mc" lineNum="15" pc="268435908" symbol="draw"/>
-<entry filename="/Users/Richard/code/connectiq/workspace/hello/source/helloBackground.mc" lineNum="17" pc="268435912" symbol="draw"/>
-<entry filename="/Users/Richard/code/connectiq/workspace/hello/source/helloBackground.mc" lineNum="18" pc="268435965" symbol="draw"/>
-<entry filename="/Users/Richard/code/connectiq/workspace/hello/source/helloApp.mc" lineNum="6" pc="268435978" symbol="initialize"/>
-<entry filename="/Users/Richard/code/connectiq/workspace/hello/source/helloApp.mc" lineNum="7" pc="268435982" symbol="initialize"/>
-<entry filename="/Users/Richard/code/connectiq/workspace/hello/source/helloApp.mc" lineNum="11" pc="268436001" symbol="onStart"/>
-<entry filename="/Users/Richard/code/connectiq/workspace/hello/source/helloApp.mc" lineNum="15" pc="268436006" symbol="onStop"/>
-<entry filename="/Users/Richard/code/connectiq/workspace/hello/source/helloApp.mc" lineNum="19" pc="268436011" symbol="getInitialView"/>
-<entry filename="/Users/Richard/code/connectiq/workspace/hello/source/helloApp.mc" lineNum="20" pc="268436015" symbol="getInitialView"/>
-<entry filename="/Users/Richard/code/connectiq/workspace/hello/source/helloApp.mc" lineNum="24" pc="268436053" symbol="onSettingsChanged"/>
-<entry filename="/Users/Richard/code/connectiq/workspace/hello/source/helloApp.mc" lineNum="25" pc="268436057" symbol="onSettingsChanged"/>
-<entry filename="Rez" lineNum="27" pc="268436074" symbol="WatchFace"/>
-<entry filename="Rez" lineNum="29" pc="268436078" symbol="WatchFace"/>
-<entry filename="Rez" lineNum="30" pc="268436102" symbol="WatchFace"/>
-<entry filename="Rez" lineNum="31" pc="268436265" symbol="WatchFace"/>
-<entry filename="Rez" lineNum="32" pc="268436290" symbol="WatchFace"/>
-<entry filename="Rez" lineNum="33" pc="268436342" symbol="WatchFace"/>
-<entry filename="Rez" lineNum="36" pc="268436388" symbol="WatchFace"/>
+<entry filename="/Users/Richard/code/connectiq/workspace/hello/source/helloView.mc" lineNum="28" pc="268435456" symbol="initialize"/>
+<entry filename="/Users/Richard/code/connectiq/workspace/hello/source/helloView.mc" lineNum="29" pc="268435460" symbol="initialize"/>
+<entry filename="/Users/Richard/code/connectiq/workspace/hello/source/helloView.mc" lineNum="32" pc="268435483" symbol="onLayout"/>
+<entry filename="/Users/Richard/code/connectiq/workspace/hello/source/helloView.mc" lineNum="33" pc="268435487" symbol="onLayout"/>
+<entry filename="/Users/Richard/code/connectiq/workspace/hello/source/helloView.mc" lineNum="39" pc="268435525" symbol="onShow"/>
+<entry filename="/Users/Richard/code/connectiq/workspace/hello/source/helloView.mc" lineNum="43" pc="268435529" symbol="onShow"/>
+<entry filename="/Users/Richard/code/connectiq/workspace/hello/source/helloView.mc" lineNum="47" pc="268435586" symbol="onReceive"/>
+<entry filename="/Users/Richard/code/connectiq/workspace/hello/source/helloView.mc" lineNum="48" pc="268435590" symbol="onReceive"/>
+<entry filename="/Users/Richard/code/connectiq/workspace/hello/source/helloView.mc" lineNum="54" pc="268435603" symbol="onUpdate"/>
+<entry filename="/Users/Richard/code/connectiq/workspace/hello/source/helloView.mc" lineNum="59" pc="268435607" symbol="onUpdate"/>
+<entry filename="/Users/Richard/code/connectiq/workspace/hello/source/helloView.mc" lineNum="60" pc="268435614" symbol="onUpdate"/>
+<entry filename="/Users/Richard/code/connectiq/workspace/hello/source/helloView.mc" lineNum="61" pc="268435631" symbol="onUpdate"/>
+<entry filename="/Users/Richard/code/connectiq/workspace/hello/source/helloView.mc" lineNum="62" pc="268435641" symbol="onUpdate"/>
+<entry filename="/Users/Richard/code/connectiq/workspace/hello/source/helloView.mc" lineNum="63" pc="268435666" symbol="onUpdate"/>
+<entry filename="/Users/Richard/code/connectiq/workspace/hello/source/helloView.mc" lineNum="64" pc="268435677" symbol="onUpdate"/>
+<entry filename="/Users/Richard/code/connectiq/workspace/hello/source/helloView.mc" lineNum="67" pc="268435693" symbol="onUpdate"/>
+<entry filename="/Users/Richard/code/connectiq/workspace/hello/source/helloView.mc" lineNum="68" pc="268435725" symbol="onUpdate"/>
+<entry filename="/Users/Richard/code/connectiq/workspace/hello/source/helloView.mc" lineNum="69" pc="268435732" symbol="onUpdate"/>
+<entry filename="/Users/Richard/code/connectiq/workspace/hello/source/helloView.mc" lineNum="72" pc="268435753" symbol="onUpdate"/>
+<entry filename="/Users/Richard/code/connectiq/workspace/hello/source/helloView.mc" lineNum="75" pc="268435818" symbol="onUpdate"/>
+<entry filename="/Users/Richard/code/connectiq/workspace/hello/source/helloView.mc" lineNum="76" pc="268435842" symbol="onUpdate"/>
+<entry filename="/Users/Richard/code/connectiq/workspace/hello/source/helloView.mc" lineNum="77" pc="268435883" symbol="onUpdate"/>
+<entry filename="/Users/Richard/code/connectiq/workspace/hello/source/helloView.mc" lineNum="80" pc="268435903" symbol="onUpdate"/>
+<entry filename="/Users/Richard/code/connectiq/workspace/hello/source/helloView.mc" lineNum="86" pc="268435924" symbol="onHide"/>
+<entry filename="/Users/Richard/code/connectiq/workspace/hello/source/helloView.mc" lineNum="90" pc="268435929" symbol="onExitSleep"/>
+<entry filename="/Users/Richard/code/connectiq/workspace/hello/source/helloView.mc" lineNum="94" pc="268435934" symbol="onEnterSleep"/>
+<entry filename="/Users/Richard/code/connectiq/workspace/hello/source/helloBackground.mc" lineNum="7" pc="268435939" symbol="initialize"/>
+<entry filename="/Users/Richard/code/connectiq/workspace/hello/source/helloBackground.mc" lineNum="8" pc="268435943" symbol="initialize"/>
+<entry filename="/Users/Richard/code/connectiq/workspace/hello/source/helloBackground.mc" lineNum="12" pc="268435964" symbol="initialize"/>
+<entry filename="/Users/Richard/code/connectiq/workspace/hello/source/helloBackground.mc" lineNum="15" pc="268435985" symbol="draw"/>
+<entry filename="/Users/Richard/code/connectiq/workspace/hello/source/helloBackground.mc" lineNum="17" pc="268435989" symbol="draw"/>
+<entry filename="/Users/Richard/code/connectiq/workspace/hello/source/helloBackground.mc" lineNum="18" pc="268436042" symbol="draw"/>
+<entry filename="/Users/Richard/code/connectiq/workspace/hello/source/helloApp.mc" lineNum="6" pc="268436055" symbol="initialize"/>
+<entry filename="/Users/Richard/code/connectiq/workspace/hello/source/helloApp.mc" lineNum="7" pc="268436059" symbol="initialize"/>
+<entry filename="/Users/Richard/code/connectiq/workspace/hello/source/helloApp.mc" lineNum="11" pc="268436078" symbol="onStart"/>
+<entry filename="/Users/Richard/code/connectiq/workspace/hello/source/helloApp.mc" lineNum="15" pc="268436083" symbol="onStop"/>
+<entry filename="/Users/Richard/code/connectiq/workspace/hello/source/helloApp.mc" lineNum="19" pc="268436088" symbol="getInitialView"/>
+<entry filename="/Users/Richard/code/connectiq/workspace/hello/source/helloApp.mc" lineNum="20" pc="268436092" symbol="getInitialView"/>
+<entry filename="/Users/Richard/code/connectiq/workspace/hello/source/helloApp.mc" lineNum="24" pc="268436130" symbol="onSettingsChanged"/>
+<entry filename="/Users/Richard/code/connectiq/workspace/hello/source/helloApp.mc" lineNum="25" pc="268436134" symbol="onSettingsChanged"/>
+<entry filename="Rez" lineNum="27" pc="268436151" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="29" pc="268436155" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="30" pc="268436179" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="31" pc="268436342" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="32" pc="268436367" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="33" pc="268436419" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="36" pc="268436465" symbol="WatchFace"/>
 </pcToLineNum>
 <symbolTable>
 <entry id="8389124" method="true" symbol="onUpdate"/>
@@ -52,11 +55,13 @@
 <entry field="true" id="15" symbol="ColorBlue"/>
 <entry field="true" id="8388611" symbol="Toybox"/>
 <entry id="8388770" module="true" symbol="Strings"/>
+<entry field="true" id="24" symbol="url"/>
 <entry field="true" id="22" symbol="ColorWhite"/>
 <entry id="8389280" method="true" symbol="getInitialView"/>
 <entry id="8389068" method="true" symbol="draw"/>
 <entry id="8389377" method="true" symbol="onExitSleep"/>
 <entry id="8388640" symbol="Lang"/>
+<entry field="true" id="26" symbol="options"/>
 <entry field="true" id="21" symbol="ColorBlack"/>
 <entry id="8388769" module="true" symbol="Rez"/>
 <entry id="8389123" method="true" symbol="onShow"/>
@@ -65,9 +70,11 @@
 <entry id="8388702" method="true" symbol="initialize"/>
 <entry field="true" id="23" symbol="AppName"/>
 <entry id="8389375" method="true" symbol="WatchFace"/>
+<entry field="true" id="8389594" symbol="headers"/>
 <entry id="9" object="true" symbol="Background"/>
 <entry field="true" id="13" symbol="LauncherIcon"/>
 <entry id="8389683" method="true" symbol="onSettingsChanged"/>
+<entry id="8388786" symbol="method"/>
 <entry id="8389281" method="true" symbol="onStop"/>
 <entry id="8389065" symbol="locY"/>
 <entry id="8389064" symbol="locX"/>
@@ -81,24 +88,26 @@
 <entry id="8389347" symbol="color"/>
 <entry field="true" id="18" symbol="BackgroundColorTitle"/>
 <entry id="10" object="true" symbol="helloApp"/>
+<entry field="true" id="25" symbol="params"/>
 <entry id="12" module="true" symbol="Layouts"/>
 <entry id="8389125" method="true" symbol="onHide"/>
 <entry field="true" id="20" symbol="MilitaryFormatTitle"/>
 <entry id="8389063" symbol="identifier"/>
 <entry id="11" module="true" symbol="Menus"/>
 <entry id="8" object="true" symbol="helloView"/>
+<entry id="27" method="true" symbol="onReceive"/>
 <entry id="8388772" module="true" symbol="Fonts"/>
 </symbolTable>
 <localVars>
-<entry endPc="268435846" name="view" stackId="6" startPc="268435530"/>
-<entry endPc="268435846" name="hours" stackId="4" startPc="268435530"/>
-<entry endPc="268435846" name="timeString" stackId="5" startPc="268435530"/>
-<entry endPc="268435846" name="clockTime" stackId="3" startPc="268435530"/>
-<entry endPc="268435846" name="timeFormat" stackId="2" startPc="268435530"/>
-<entry endPc="268435907" name="dictionary" stackId="1" startPc="268435866"/>
-<entry endPc="268436415" name="rez_cmp_local_bitmap_TimeLabel" stackId="3" startPc="268436078"/>
-<entry endPc="268436415" name="rez_cmp_local_bitmap_TimeLabel_fontHeight" stackId="4" startPc="268436078"/>
-<entry endPc="268436415" name="rez_cmp_local_custom_drawable_WYL92RTSFBJ12JHC1P52" stackId="2" startPc="268436078"/>
+<entry endPc="268435923" name="view" stackId="6" startPc="268435607"/>
+<entry endPc="268435923" name="hours" stackId="4" startPc="268435607"/>
+<entry endPc="268435923" name="timeString" stackId="5" startPc="268435607"/>
+<entry endPc="268435923" name="clockTime" stackId="3" startPc="268435607"/>
+<entry endPc="268435923" name="timeFormat" stackId="2" startPc="268435607"/>
+<entry endPc="268435984" name="dictionary" stackId="1" startPc="268435943"/>
+<entry endPc="268436492" name="rez_cmp_local_bitmap_TimeLabel" stackId="3" startPc="268436155"/>
+<entry endPc="268436492" name="rez_cmp_local_bitmap_TimeLabel_fontHeight" stackId="4" startPc="268436155"/>
+<entry endPc="268436492" name="rez_cmp_local_custom_drawable_FDZS7C81R202PK1RVOT7" stackId="2" startPc="268436155"/>
 </localVars>
 <annotations/>
 <functions>
@@ -112,17 +121,22 @@
 <functionEntry name="onShow" parent="helloView">
 <documentation/>
 </functionEntry>
-<functionEntry name="onUpdate" parent="helloView">
+<functionEntry name="onReceive" parent="helloView">
+<param id="responseCode"/>
+<param id="data"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onUpdate">
 <param id="dc"/>
 <documentation/>
 </functionEntry>
-<functionEntry name="onHide" parent="helloView">
+<functionEntry name="onHide">
 <documentation/>
 </functionEntry>
-<functionEntry name="onExitSleep" parent="helloView">
+<functionEntry name="onExitSleep">
 <documentation/>
 </functionEntry>
-<functionEntry name="onEnterSleep" parent="helloView">
+<functionEntry name="onEnterSleep">
 <documentation/>
 </functionEntry>
 <functionEntry name="initialize" parent="Background">
