@@ -40,13 +40,10 @@ class helloView extends Ui.View {
     // seems to be most helpful https://forums.garmin.com/showthread.php?358535-makeJsonRequest-makeWebRequest-examples but still not working
     // possibly helpful http://stackoverflow.com/questions/39680036/connect-iq-unexpected-type-error-when-using-settext
     //
-		Comm.makeWebRequest(url, params, options, method(:onReceive)
+		
+	Comm.makeWebRequest(url, params, options, method(:onReceive)
 		);	
-    }
     
-    function onReceive(responseCode, data) {
-       responseCode.toString();
-    }
 	}
     
 
@@ -78,6 +75,7 @@ class helloView extends Ui.View {
 
         // Call the parent onUpdate function to redraw the layout
         View.onUpdate(dc);
+        
     }
 
     // Called when this View is removed from the screen. Save the
@@ -95,3 +93,7 @@ class helloView extends Ui.View {
     }
 
 
+    function onReceive(responseCode, data) {
+       responseCode.toString();
+    }
+    }
